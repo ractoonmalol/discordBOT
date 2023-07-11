@@ -1,0 +1,52 @@
+US
+---
+Thank you for downloading my tool.
+
+This tool allows you to create any DiscordBOT you want without source code and with your own senses.
+
+1.When using this tool, please turn off windows security only during the first start-up setup.
+(If you get a virus false positive when downloading, please also turn off windows security before downloading again).
+
+2.After start-up, carry out the set-up.
+
+Start the tool and select the language.
+
+4.Select the type of BOT you want to create.
+
+After selecting the Make button, select the functions you want to add.
+
+6. When you have finished creating your BOT, go to the discordDeveloper site, create your bot and get a token.
+
+7.Enter the token of the bot you have just created into the tool you have created.
+
+8. Create an invite link for the BOT from discordDeveloper and add it to your server.
+
+9. completion.
+
+Translated with www.DeepL.com/Translator (free version)
+
+---
+JP
+---
+私のツールをダウンロードしていただきありがとうございます。
+
+このツールではソースコードなしで自分の感覚で好きなDiscordBOTを作成できます。
+
+1.本ツールを使用する際、最初の起動セットアップ時のみwindowsセキュリティーをオフにしてください。
+(ダウンロードする際、ウイルス誤検知が入る場合もwindowsセキュリティーをオフにしてから再度ダウンロードしてください）
+
+2.起動後セットアップを行います。
+
+3.ツールを起動し、言語を選択します。
+
+4.作りたいBOTの種類を選択します。
+
+5.Makeボタンを選択後自分の追加したい機能を選択してください。
+
+6.BOTの作成が完了したら、discordDeveloperサイトに移動し、Botを作成後tokenを取得してください。
+
+7.作成したツールに先程作成したBotのtokenを入力します。
+
+8.discordDeveloperからBOTの招待リンクを作成し、自分のサーバーに追加します。
+
+9.完成
